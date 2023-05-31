@@ -9,3 +9,6 @@ Attributions:
 ## Usage
 Clone, or download the zip, to a local directory. Open in Unreal Engine 4.27 or newer
 
+## Attributions
+1. Eerie Forest, FrenchyBoy, OpenGameArt, ( https://opengameart.org/content/eerie-forest  )
+2. explosion, Luke RustLtd, OpenGameArt, ( https://opengameart.org/content/bombexplosion8bit ) 
