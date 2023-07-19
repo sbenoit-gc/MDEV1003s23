@@ -16,3 +16,5 @@ Clone, or download the zip, to a local directory. Open in Unreal Engine 4.27 or 
 4. added a maze model created via the MazeGenerator site ( https://www.mazegenerator.net  )
 5. TinCan.wav, Vinrax, OpenGameArt, https://opengameart.org/content/metal-sounds
 6. Ribbed Metal PBR material, FreePBR.com ( https://freepbr.com/materials/ribbed-chipped-metal/ )
+7. NS_Diffusion, Big Niagara Bundle Sooer games, UE MarketPlace ( https://www.unrealengine.com/marketplace/en-US/product/big-niagara-bundle )
+
