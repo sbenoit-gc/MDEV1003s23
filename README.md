@@ -1,4 +1,4 @@
-# Project Name  MDEV1003w23
+# Project Name  MDEV1003s23
 <img src="Saved/AutoScreenshot.png" width="320"  align="right" />
 ## Description
 
@@ -7,7 +7,7 @@ A github repository for the in class demonstrations.<br><br>
 Attributions: 
 
 ## Usage
-Clone, or download the zip, to a local directory. Open in Unreal Engine 4.27 or newer
+Clone, or download the zip, to a local directory. Open in Unreal Engine 5.2 or newer
 
 ## Attributions
 1. Eerie Forest, FrenchyBoy, OpenGameArt, ( https://opengameart.org/content/eerie-forest  )
