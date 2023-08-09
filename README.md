@@ -20,4 +20,5 @@ Clone, or download the zip, to a local directory. Open in Unreal Engine 5.2 or n
 8. transport sound effect, LaserBeam Frosty Ham, OpengameArt ( https://opengameart.org/content/laser-beam )
 9. SecondLevel backdrop, Stadium 01, Sergev, Polyhaven ( https://polyhaven.com/a/stadium_01 )
 10. Eroded Smoothed Rockface PBR Material, freepbr.com  ( https://freepbr.com/materials/eroded-smoothed-rockface/ )
+11. Added character generated at ReadyPlayerMe, and animated at Mixamo, ( https://readyplayer.me ) and ( https://www.mixamo.com )
 
